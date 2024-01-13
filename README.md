@@ -1,0 +1,1 @@
+This a Space Invader-like game I made for ICS4U Summative Project. All images, videos, and sounds are non-original. Credit to Re-Logic/Terraria Official Wiki, FromSoftware, ChillyRoom, and PACrankyDM on DeviantArt for assets used.
